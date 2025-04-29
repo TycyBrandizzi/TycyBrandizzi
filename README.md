@@ -9,14 +9,13 @@
 #
 
 <p align="center">Apaixonada por tecnologia e inovação, sou uma desenvolvedora full stack em início de carreira, com formação em andamento em Engenharia de Software. Meu objetivo é atuar em ambientes colaborativos, onde eu possa crescer profissionalmente e contribuir com minha paixão por tecnologia.Acredito que inovação e aprendizado contínuo são a chave para desenvolver sistemas eficientes e criar um impacto positivo no mundo.Estou em busca de oportunidades desafiadoras para aplicar minhas habilidades e evoluir junto com empresas que valorizem criatividade e propósito.
-#
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:tycy.brandizzi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/tycy.brandizzi/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Leticiabrandizzi/)
 
 
 <h3 align="left">My Stack ~</h3>
@@ -32,7 +31,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img width="8" />
@@ -40,7 +38,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
 #
